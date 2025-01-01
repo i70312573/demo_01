@@ -11,6 +11,8 @@
 </div>
 [link](https://stackoverflow.com/questions/52099853/how-can-i-customize-my-readme-md-for-github)
 ##
+
+```markdown
 ```bash
 python script.py --arg value
 
