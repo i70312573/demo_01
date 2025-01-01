@@ -13,3 +13,14 @@
 ##
 ```bash
 python script.py --arg value
+
+When rendered (e.g., on GitHub), users can manually copy the command, but there won't be a "copy" icon.
+
+### 2. **Copy Button with HTML (Advanced)**
+If you want to include a "copy" button, you can embed HTML and JavaScript for platforms that support it, like GitHub Pages or your documentation website.
+
+```markdown
+<pre>
+<code>python script.py --arg value</code>
+</pre>
+<button onclick="navigator.clipboard.writeText('python script.py --arg value')">Copy</button>
