@@ -10,3 +10,6 @@
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </div>
 [link](https://stackoverflow.com/questions/52099853/how-can-i-customize-my-readme-md-for-github)
+##
+```bash
+python script.py --arg value
