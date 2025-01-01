@@ -12,6 +12,18 @@
 [link](https://stackoverflow.com/questions/52099853/how-can-i-customize-my-readme-md-for-github)
 ##
 
+
+
+#### Mixing HTML and Markdown
+If you mix HTML with Markdown, Markdown stops processing once you enter raw HTML. To "end" that section, you just stop using HTML or insert a closing tag where necessary:
+
+```markdown
+<p>This is an HTML paragraph.</p>
+
+Back to Markdown text.
+
+
+
 ```markdown
   ```bash
   python script.py --arg value
