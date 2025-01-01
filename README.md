@@ -8,6 +8,6 @@ Below are some common Python commands you can use. Each section includes a "copy
 ```bash
 python script.py
 ---
-## 1. Run the Script
+## 2. Run the Script
 ```bash
 python script.py
