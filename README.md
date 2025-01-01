@@ -13,8 +13,8 @@
 ##
 
 ```markdown
-```bash
-python script.py --arg value
+  ```bash
+  python script.py --arg value
 <br>
 When rendered (e.g., on GitHub), users can manually copy the command, but there won't be a "copy" icon.
 
