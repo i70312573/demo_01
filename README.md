@@ -15,7 +15,7 @@
 ```markdown
 ```bash
 python script.py --arg value
-
+<br>
 When rendered (e.g., on GitHub), users can manually copy the command, but there won't be a "copy" icon.
 
 ### 2. **Copy Button with HTML (Advanced)**
