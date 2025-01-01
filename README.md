@@ -7,7 +7,9 @@ Below are some common Python commands you can use. Each section includes a "copy
 ## 1. Run the Script
 ```bash
 python script.py
+
 ---
+
 ## 2. Run the Script
 ```bash
 python script.py
