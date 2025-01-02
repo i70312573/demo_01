@@ -1,15 +1,11 @@
 # Python Commands with Copy Buttons
 
-Below are some common Python commands you can use. Each section includes a "copy" icon for convenience.
+Below are common Python commands, each in its own section with a "copy" button for convenience.
 
 ---
 
 ## 1. Run the Script
-```bash
-python script.py```
+To execute the script, use the following command:
 
----
-
-## 1. Run the Script
 ```bash
-python code.py```
+python script.py
