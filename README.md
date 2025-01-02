@@ -10,3 +10,6 @@ To execute the script, use the following command:
 ```bash
 python script.py
 ```
+```bash
+python code.py
+```
