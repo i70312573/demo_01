@@ -11,22 +11,39 @@ To execute the script, use the following command:
 python script.py
 ```
 ---
-run the code file
+## 2. Sorting the files
+To sort the all csv files, run the below command. (this sorting is based on video_name and track_id columns inside csv file)
 ```bash
 python code.py
 ```
 ---
-now run the code_01
+## 3. Splitting the files by label
+To split the all csv files by label, run the below command
 ```bash
 python code_01.py
 ```
 ---
-now run the code_02
+## 4. Generate the sequence
+To generate the sequence, run the below command
 ```bash
 python code_02py
 ```
 ---
-now run the code_03
+## 5. Checking the generated sequence
+To check the generated sequence in order to sure the duplicacy of group, run the below command
+```bash
+python code_03.py
+
+```
+## 6. Appending the both generated sequence csv files
+To append the generated sequence csv file, run the below command
+```bash
+python code_03.py
+```
+
+```
+## 6. Appending the both generated sequence csv files
+To append the generated sequence csv file, run the below command
 ```bash
 python code_03.py
 ```
