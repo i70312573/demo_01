@@ -41,7 +41,20 @@ To append the generated sequence csv file, run the below command
 python code_03.py
 
 ```
-To append the generated sequence csv file, run the below command
+## 7. Splitting the sequence
+To split the sequence of appended csv file, run the below command
+```bash
+python code_03.py
+```
+
+## 8. Uploding the files, train the model, and download the trained model
+To achieve above, go to the notebook.ipynb and run the cells one by one.
+```bash
+python code_03.py
+```
+
+## 9. Testing model
+To test the trained model, run the cells one by one.
 ```bash
 python code_03.py
 ```
