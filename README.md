@@ -39,7 +39,6 @@ python code_03.py
 To append the generated sequence csv file, run the below command
 ```bash
 python code_03.py
-```
 
 ```
 To append the generated sequence csv file, run the below command
