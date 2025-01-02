@@ -15,15 +15,18 @@ run the code file
 ```bash
 python code.py
 ```
-
+---
+now run the code_01
 ```bash
 python code_01.py
 ```
-
+---
+now run the code_02
 ```bash
 python code_02py
 ```
-
+---
+now run the code_03
 ```bash
 python code_03.py
 ```
