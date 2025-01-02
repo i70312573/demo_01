@@ -13,3 +13,15 @@ python script.py
 ```bash
 python code.py
 ```
+
+```bash
+python code_01.py
+```
+
+```bash
+python code_02py
+```
+
+```bash
+python code_03.py
+```
